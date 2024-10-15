@@ -12,10 +12,12 @@ This README.md file provides an overview of the To Do List App, a user-friendly 
   </ol>
 </p>
 <br>
-End Product Result :
+ <strong>End Product Result : </strong>
+<br>
 <img width="929" alt="image" src="https://github.com/user-attachments/assets/39229e23-84de-4731-b7b2-30ad49483d3c">
+<br>
 
-<p>Click on the List item to remove it from the List</p>
+<strong>Click on the List item to remove it from the List </strong>
 <br>
 <img width="939" alt="image" src="https://github.com/user-attachments/assets/2b41eb85-9899-4355-b045-039ed6996f0a">
 
